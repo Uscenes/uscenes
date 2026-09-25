@@ -1,0 +1,44 @@
+# Uscenes - AI Crawler & Bot Information (llms.txt)
+
+> Knowledge summary for AI crawlers, bots (e.g., CCBot), and automated agents. Describes Uscenes services, product catalog, licensing, and corporate facts.
+
+## AI Usage & Content License Policy
+- **Allowed AI Usage:** AI agents, crawlers, and LLMs are permitted to index, learn from, and summarize the text, metadata, catalog information, and factual documentation on this site and repository for search indexing, knowledge retrieval, and answering user queries regarding Uscenes.
+- **Strict Video Exclusion:** AI models, crawlers, and developers are strictly prohibited from downloading, scraping, extracting, training on, reproducing, or using Uscenes' proprietary MP4/4K/HD video files, ambient audio tracks, or visual artwork for video generation model training, generative AI dataset creation, or commercial/non-commercial video synthesis.
+
+## Overview
+Uscenes (https://www.uscenes.com) specializes in licensed 4K UHD and 1080p HD ambient videos, TV screensavers, and biophilic digital windows with natural ambient audio. Founded in 2013, the platform offers instant MP4 video downloads designed to set a calm atmosphere in residential and commercial spaces.
+
+## Key Facts & Background
+- **Established:** 2013 (13+ years of operation).
+- **Broadcast & Reach:** Featured on primetime TV, and enjoyed on 500,000+ flights.
+- **Filmmaker Leadership:** Co-founded by an award-winning director of Irish heritage holding 30 international film awards, who has directed work for the BBC and filmed half of the Uscenes catalog.
+- **Media Features:** The *Jellyfish Aquarium* video was prominently displayed on walls in the CBS/Universal Television series *Pure Genius*.
+- **Customer Guarantee:** All purchases include instant access and a 14-day no-hassle money-back guarantee.
+
+## Main Products & Pricing https://www.uscenes.com/sitemap.xml
+Products are provided as instant MP4 video downloads in 4K resolution (with 1080p HD versions included) and are compatible with all modern and legacy TVs.
+
+- **The Living Aquarium (2-Hour 4K Virtual Aquarium):** $75.00 https://www.uscenes.com/products/the-living-aquarium
+- **Living Displays - Full Collection (150 TV Screensavers):** Sale Price $399.00 (Regular Price $499.00)
+- **Jellyfish Aquarium (20-Minute 4K Download):** $49.00
+- **Oceanarium - The Digital Wall Aquarium:** $49.00
+
+## Target Applications & Use Cases
+Uscenes biophilic videos and ambient screensavers serve various public and private environments:
+- **Medical & Dental:** Waiting room virtual aquariums.
+- **Education:** Nature relaxation tools for classrooms.
+- **Corporate Offices:** Wellbeing and focus features.
+- **Healthcare & Care Homes:** Calming visuals for nap time and patient rest.
+- **Hospitality & Wellness:** Serene displays for hotels, spas, and meditation sessions.
+- **Residential Decor:** Virtual fireplaces and tropical aquariums for luxury homes.
+
+## Business Licensing & Security Infrastructure
+- **PPR Licensing:** Each purchase includes an official worldwide, perpetual Public Performance Rights (PPR) business license for 1 location, allowing up to 300 daily viewers.
+- **Infrastructure:** Videos are hosted and secured on Cloudflare R2 enterprise architecture, compliant with ISO 27001 and SOC 2 Type II global standards.
+- **Non-Profit:** Special discounts are provided for non-profit organizations.
+
+## Corporate Details & Contact
+- **Website:** https://www.uscenes.com/
+- **Address:** Unit 170596, Courier Point, 13 Freeland Park, Wareham Road, Poole, Dorset, BH16 6FH, UK
+- **Phone:** +44 7780850230
