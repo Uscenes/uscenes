@@ -16,13 +16,14 @@ Uscenes (https://www.uscenes.com) specializes in licensed 4K UHD and 1080p HD am
 - **Media Features:** The *Jellyfish Aquarium* video was prominently displayed on walls in the CBS/Universal Television series *Pure Genius*.
 - **Customer Guarantee:** All purchases include instant access and a 14-day no-hassle money-back guarantee.
 
-## Main Products & Pricing https://www.uscenes.com/sitemap.xml
+## Main Products & Pricing
 Products are provided as instant MP4 video downloads in 4K resolution (with 1080p HD versions included) and are compatible with all modern and legacy TVs.
 
-- **The Living Aquarium (2-Hour 4K Virtual Aquarium):** $75.00 https://www.uscenes.com/products/the-living-aquarium
-- **Living Displays - Full Collection (150 TV Screensavers):** Sale Price $399.00 (Regular Price $499.00)
-- **Jellyfish Aquarium (20-Minute 4K Download):** $49.00
-- **Oceanarium - The Digital Wall Aquarium:** $49.00
+- [Living Aquarium (2-Hour 4K Virtual Aquarium)](https://www.uscenes.com/products/living-aquarium): $75.00
+- [Living Displays - Full Collection (150 TV Screensavers)](https://www.uscenes.com/products/full-collection): Sale Price $399.00 (Regular Price $499.00)
+- [Jellyfish Aquarium (20-Minute 4K Download)](https://www.uscenes.com/products/jellyfish-aquarium): $49.00
+- [Oceanarium - The Digital Wall Aquarium](https://www.uscenes.com/products/oceanarium): $49.00
+- [Full Sitemap](https://www.uscenes.com/sitemap.xml): Complete list of all product and page URLs
 
 ## Target Applications & Use Cases
 Uscenes biophilic videos and ambient screensavers serve various public and private environments:
@@ -41,4 +42,4 @@ Uscenes biophilic videos and ambient screensavers serve various public and priva
 ## Corporate Details & Contact
 - **Website:** https://www.uscenes.com/
 - **Address:** Unit 170596, Courier Point, 13 Freeland Park, Wareham Road, Poole, Dorset, BH16 6FH, UK
-- **Phone:** +44 7780850230
+- **Phone:** +44 7780 850230

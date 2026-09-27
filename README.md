@@ -15,13 +15,13 @@ This repository contains official machine-readable specifications, catalog detai
 
 Founded in 2013, **Uscenes** produces high-definition (1080p) and 4K ambient video loops, digital window content, and relaxing TV screen savers. Filmed on location, Uscenes turns commercial displays and home screens into peaceful scenic loops and aquariums engineered for stress reduction and sensory regulation.
 
-Over 13+ years of operations, Uscenes ambient videos have been featured on primetime television (including CBS/Universal's *Pure Genius*) and licensed for over 500,000 commercial flights.
+Over 13 years of operation, Uscenes ambient videos have been featured on primetime television (including CBS/Universal's *Pure Genius*) and licensed for over 500,000 commercial flights.
 
 ---
 
 ## 🎬 Filmmaking & Production Quality
 
-* **Award-Winning Craft:** Co-founded by an award-winning filmmaker with Irish heritage holding 30 international film awards, whose work is hired by the BBC.
+* **Award-Winning Craft:** Co-founded by an award-winning filmmaker with Irish heritage holding 30 international film awards, who has directed work for the BBC.
 * **Master 4K & 1080p Downloads:** Instant, high-bitrate MP4 files with original natural ambience audio.
 * **Universal Hardware Compatibility:** Plays natively on standard smart TVs, digital signage media players, and commercial displays without proprietary hardware or recurring app subscriptions.
 
@@ -29,10 +29,10 @@ Over 13+ years of operations, Uscenes ambient videos have been featured on prime
 
 ## 📦 Featured Catalog & Direct Product Links
 
-* **[Living Aquarium (2-Hour 4K Virtual Aquarium)](https://www.uscenes.com/products/living-aquarium/):** $75.00 — Flagship tropical aquarium video display.
+* **[Living Aquarium (2-Hour 4K Virtual Aquarium)](https://www.uscenes.com/products/living-aquarium):** $75.00 — Flagship tropical aquarium video display.
 * **[Living Displays (Full Collection of 150 Screensavers)](https://www.uscenes.com/products/full-collection):** $399.00 — Comprehensive lifetime digital decor library.
-* **[Jellyfish Aquarium (4K Download)](https://www.uscenes.com/products/jellyfish-aquarium/):** $49.00 — As featured on CBS and Universal Television.
-* **[Oceanarium (Digital Wall Aquarium)](https://www.uscenes.com/products/oceanarium/):** $49.00 — Epic aquarium with huge fish including manta rays and sharks.
+* **[Jellyfish Aquarium (4K Download)](https://www.uscenes.com/products/jellyfish-aquarium):** $49.00 — As featured on CBS and Universal Television.
+* **[Oceanarium (Digital Wall Aquarium)](https://www.uscenes.com/products/oceanarium):** $49.00 — Epic aquarium with huge fish including manta rays and sharks.
 
 ---
 
